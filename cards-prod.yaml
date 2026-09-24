@@ -1,0 +1,15 @@
+
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "hello from prod"
+  
+  contactDetails:
+    name: "ahmed prod"
+    email: "ahmed@prod"
+
+  onCallSupport:
+    - (20) 100 120 5992

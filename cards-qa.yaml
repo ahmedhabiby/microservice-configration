@@ -1,0 +1,15 @@
+
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "hello from qa"
+
+  contactDetails:
+    name: "ahmed qa"
+    email: "ahmed@qa"
+
+  onCallSupport:
+    - (20) 100 120 5992

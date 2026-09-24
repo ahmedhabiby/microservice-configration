@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome Developer"
+  contactDetails:
+    name: "ahmed"
+    email: "ahmed@gmail.com"
+  onCallSupport:
+    - "(0100)1205992"

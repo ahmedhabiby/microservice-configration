@@ -1,0 +1,12 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "hello from dev"
+  contactDetails:
+    name: "ahmed dev"
+    email: "ahmed@dev"
+  onCallSupport:
+    - (20) 100 120 5992

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "hello from loans"
+  contactDetails:
+    name: "ahmed prod"
+    email: "ahmed@prod"
+  onCallSupport:
+    -(+20) 100 120 5992

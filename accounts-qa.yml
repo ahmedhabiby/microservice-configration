@@ -1,0 +1,12 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome"
+  contactDetails:
+    name: "ahmed - quality"
+    email: "ahmed@gmail.com"
+  onCallSupport:
+    - "(0100)1205992"
