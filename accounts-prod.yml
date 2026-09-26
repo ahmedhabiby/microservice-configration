@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome"
+  message: "hello from prod"
   contactDetails:
     name: "ahmed - product owner"
     email: "{cipher}86e54e7d6d4cd9a8852110a9fe68d1b3bac4f27c6bbabb37d1c51be71af6183a"
