@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "welcome Developer docker local"
+  message: "welcome Developer docker "
   contactDetails:
     name: "ahmed"
     email: "ahmed@gmail.com"
